@@ -2,7 +2,8 @@ The code for the paper
  **"Coevolution Modeling for Network Public Opinion with Bidirectional Feedback Mechanism"** 
 
 # Simulated data on the equilibrium point $A_8(1,1,1)$
-<img width="785" height="122" alt="image" src="https://github.com/user-attachments/assets/0b912786-b29e-4bec-97a8-566d770a7fcc" />
+<img width="847" height="120" alt="image" src="https://github.com/user-attachments/assets/b61ae73e-0dca-4275-b58f-1e2578f0e3a1" />
+
 
 
 # Set Up
