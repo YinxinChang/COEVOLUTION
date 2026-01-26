@@ -23,4 +23,4 @@ SymPy==1.10.1
 
 # How to Run the Code
 Run code.ipynb to obtain the replication dynamic equation,
-and then analyze the impact of the bidirectional feedback mechanism and intervention-related parameters on the evolution of network public opinion by varying the relevant parameters.
+and then analyze the impact of the bidirectional feedback mechanism and intervention-related parameters (reward, punishment, intervention delay) on the evolution of network public opinion by varying the relevant parameters.
