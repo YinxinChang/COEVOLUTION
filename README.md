@@ -33,7 +33,7 @@ Simulated data on the equilibrium point $A_8(1,1,1)$
 # How To Use
 
 
-Please refer to the code.ipynb notebook for replication dynamic equation and the impact of  the bidirectional feedback mechanism and intervention-related parameters on the evolution of network public opinion 
+Please refer to the [code.ipynb](https://github.com/YinxinChang/COEVOLUTION/blob/main/code.ipynb) notebook for replication dynamic equation and the impact of  the bidirectional feedback mechanism and intervention-related parameters on the evolution of network public opinion 
 
 
 # Citataions
